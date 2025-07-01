@@ -4,7 +4,7 @@
 # Bioinformatician | M.S. in Bioinformatics, Boston University
 # Expertise: NGS analysis, scalable pipeline development, variant interpretation
 # ================================
-# 0. Load Required Libraries
+# Load Required Libraries
 # ================================
 library(rentrez)     # NCBI API
 library(XML)         # Parse XML from NCBI
